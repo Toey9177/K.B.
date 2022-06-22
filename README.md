@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+git branch -m main 'ไกรสิทธิ์-เต้ย-บุญญโส.อิงค์,-จำกัด'
+
+git ดึงต้นทาง
+
+สาขา git -u 'origin/Kraisit-Toey-Boonyaso.Inc.,-Ltd' 'Kraisit-Toey-Boonyaso.Inc.,-Ltd'
+
+git รีโมท set-head origin -a
